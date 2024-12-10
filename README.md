@@ -169,7 +169,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 - 📖 [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) , Camille Fournier. A very practical book with lots of down-to-earth advices.
 - 📖 [Team Topologies](https://itrevolution.com/product/team-topologies/), from ITRevolution Press. Discusses the intricacies of managing Engineering Departments, and especially patterns for improving team interactions.
 - 📖 [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker, Seminal Work in Management. Discusses challenges of management, especially managing Knowledge Workers. Proposes principles for effective decision-making and continued improvement of one's organization
-  - May also serve as grounding for growing beyond Engineering Management, as well as working with other departments. 
+  - May also serve as grounding for growing beyond Engineering Management, as well as working with other departments.
 
 There are some other more specific books quoted below.
 
@@ -367,14 +367,13 @@ Also check the [charlax/professional-programming's Career Growth section](https:
 - [Keith Rabois on how to identify great talent](https://www.startuparchive.org/p/keith-rabois-on-how-to-identify-great-talent)
   - “What you want to do with every single employee every single day is expand the scope of their responsibilities until it breaks… and that’s the role they should stay in.”
   - If you see people frequently going up to a person's desk, it's a sign that that person can help them. Promote these people and give them more responsibility as fast as you can.
+- [An impact-based level system for engineers](https://medium.com/@elliotgraebert/an-impact-based-level-system-for-engineering-organizations-2e0f9bee20e6)
 
 Curated examples of job ladder/career development matrix:
 
 - ⭐️ [RentTheRunway's Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
-- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
-- [Expert360](http://eng-skills-matrix.expert360.com/): pretty detailed, does not seem to have two tracks
-  - Also includes hard skills such as this [backend roadmap](http://eng-skills-matrix.expert360.com/backend-roadmap.pdf)
+- [Gitlab](https://handbook.gitlab.com/handbook/engineering/careers/matrix/)
 - Medium, [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
   - [Medium's skills spreadsheet](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721): mixes all rubrics regardless of role
 - [Khan Academy](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit)
@@ -996,7 +995,7 @@ Quote:
 - [Meetings *are* the work.](https://medium.com/@ElizAyer/meetings-are-the-work-9e429dde6aa3)
 - [Embrace Silence](https://tech.forter.com/embrace-silence.html)
 - [Simple Sabotage](https://www.amazon.com/Simple-Sabotage-Detecting-Behaviors-Undermine/dp/0062371606) "A Modern Field Manual for Detecting and Rooting Out Everyday Behaviors That Undermine Your Workplace". Covers anti-patterns of collaborative behavior, and provides specific recommendations for fixing these when they occur in meetings.
-  
+
 ### Mentoring
 
 - [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
@@ -1108,6 +1107,8 @@ See also [Data organization](#data-organization)
 - [How to Effectively Manage Low Performers: The CARES Framework](https://blog.novatools.org/how-to-effectively-manage-low-performers-the-cares-framework-702e00732e8d): Communicate, Accountability, Roadmap, Execution, Support.
 - [Unlocking performance management for start-ups and scale-ups](https://leaddev.com/process/unlocking-performance-management-start-ups-and-scale-ups)
   - `Team performance = f(results, behaviors)`
+- [Hey, wait – is employee performance really Gaussian distributed??](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
+  - Article argues that it's Pareto-distributed instead.
 
 ### Personal productivity
 
