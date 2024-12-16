@@ -262,6 +262,15 @@ Here are some generic resources:
   - Unexpected anti-pattern #1: shying away from micromanagement
   - Unexpected anti-pattern #2: pushing back on measuring flawed metrics
   - Unexpected anti-pattern #3: serving as the umbrella for your team
+- [Categories of leadership on technical teams](https://www.benkuhn.net/leadcats/)
+  - Overall direction
+  - People management
+  - Project management
+  - Technical leadership
+  - The “tech lead manager”
+  - Engineering manager / tech lead
+  - Product manager / tech lead
+  - People manager / research lead
 
 ### Tools
 
