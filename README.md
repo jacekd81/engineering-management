@@ -377,6 +377,12 @@ Also check the [charlax/professional-programming's Career Growth section](https:
   - “What you want to do with every single employee every single day is expand the scope of their responsibilities until it breaks… and that’s the role they should stay in.”
   - If you see people frequently going up to a person's desk, it's a sign that that person can help them. Promote these people and give them more responsibility as fast as you can.
 - [An impact-based level system for engineers](https://medium.com/@elliotgraebert/an-impact-based-level-system-for-engineering-organizations-2e0f9bee20e6)
+  - Level 1 — Scoped Tasks
+  - Level 2 — Scoped Projects
+  - Level 3 — Unscoped Projects
+  - Level 4 — Team Force Multiplier
+  - Level 5 — Group Force Multiplier
+  - Level 6 — Company Force Multiplier
 
 Curated examples of job ladder/career development matrix:
 
@@ -848,6 +854,7 @@ Specifics about hiring engineering managers:
 #### Hiring: résumé review
 
 - [When Is Short Tenure a Red Flag?](https://jacobian.org/2022/oct/14/when-is-short-tenure-a-red-flag/)
+- [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
 
 #### Hiring: sourcing
 
@@ -1276,6 +1283,14 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Does the roadmap identify major dependencies or risks?
   - Does the roadmap feel aggressive but achievable?
   - Is the roadmap easily referenceable later?
+- [Stop inventing product problems; start solving customer problems](https://uxdesign.cc/stop-solving-product-problems-start-solving-customer-problems-6c9cf3e28db3)
+  - The build trap is when organizations focus more on shipping and developing features rather than on the actual value those things produce. — Melissa Perri, Escaping the Build Trap
+  - When low-maturity product teams start engaging with outcome goals, vanity metrics such as "number of queries" or "email send rate" predominate.
+  - When you ask “what features do users want the dashboard to have” you’ll never hear “users don’t need a dashboard” unless you’re really good at reading between the lines.
+  - Project teams tend to fix the problem of "missing features" rather than "customer unable to reach their goal"
+  - Shipping the MVP can quickly evolve into incrementally working out interesting coding problems, at the cost of making measurable improvements to the user experience.
+  - “Working backward from customer needs is a huge amount of work. But it will save you even more work later.” — Jeff Bezos
+  - In reality, no products are desirable to customers. Customers have desirable outcomes, which products can help them reach.
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
