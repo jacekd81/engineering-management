@@ -1550,6 +1550,7 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
 See also my [professional-programming repo](https://github.com/charlax/professional-programming)
 
 - [The code quality pyramid](https://www.fabianzeindl.com/posts/the-codequality-pyramid)
+- [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
 
 ### RFCs (request for comments)
 
