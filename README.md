@@ -184,6 +184,7 @@ Other books I haven't read:
 - [Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers](https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/#books-by-genre), Gergely Orosz
 - [Most Recommended Books to Make You a Better Engineering Manager](https://managersclub.com/most-recommended-books-engineering-leaders/)
 - [10 Must-Reads for Engineering Leaders](https://zaidesanton.substack.com/p/10-must-reads-for-engineering-leaders)
+- [Your 12-month engineering manager MBA reading list](https://www.linkedin.com/posts/anton-zaides_your-12-month-engineering-manager-mba-for-activity-7280274078215659520-rQWP/)
 
 ## What is engineering management?
 
@@ -652,6 +653,7 @@ Hiring:
 
 - [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 - [Mental frameworks for making decisions](http://nathanbarry.com/mental-frameworks/): how to handle escalations as a manager.
+- [Inspection and the limits of trust](https://lethain.com/inspection/)
 
 ### Executives
 
@@ -1494,7 +1496,7 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
   - Minimize dependencies
   - Headcount planning won’t map to your plans
 - Basecamp's [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
-  - Backlogs are a big weight we don’t need to carry.
+  - Backlogs are a big weight we don’t need to carry. (on this topic: [when you work in six week cycles, later means another time](https://x.com/jasonfried/status/1873850796359770584))
   - Important ideas come back
   - Choosing the right cycle length (six weeks)
   - Assign projects, not tasks
