@@ -72,10 +72,6 @@
   - [Remote teams](#remote-teams)
   - [Quality](#quality)
   - [RFCs (request for comments)](#rfcs-request-for-comments)
-  - [Talent management](#talent-management)
-  - [Team vision](#team-vision)
-  - [Technical strategy](#technical-strategy)
-  - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
   - [Second level manager (2LM)](#second-level-manager-2lm)
   - [Security](#security)
@@ -83,6 +79,10 @@
   - [Storytelling](#storytelling)
   - [Strategy](#strategy)
   - [Survey](#survey)
+  - [Talent management](#talent-management)
+  - [Team vision](#team-vision)
+  - [Technical strategy](#technical-strategy)
+  - [Team culture](#team-culture)
   - [Team dynamics](#team-dynamics)
   - [Training](#training)
   - [Trust](#trust)
@@ -1568,6 +1568,54 @@ See also my [professional-programming repo](https://github.com/charlax/professio
 - [A thorough team guide to RFCs.](https://buriti.ca/a-thorough-team-guide-to-rfcs-8aa14f8e757c)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
+### Scaling an organization
+
+- [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
+- [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+### Second level manager (2LM)
+
+- [Managing Your Time as a Middle Manager](https://newsletter.canopy.is/p/managing-your-time-as-a-middle-manager)
+
+### Security
+
+- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+- [Does Your Organization Have a Security.txt File?](https://krebsonsecurity.com/2021/09/does-your-organization-have-a-security-txt-file/), Krebs on Security
+- [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
+
+### Soft skills, Emotional Quotient (EQ)
+
+- [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
+- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
+- [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills)
+  - The importance of soft skills in engineering leadership
+  - Process to improving leadership soft skills
+  - Practices to fine-tune leadership soft skills
+  - Helping direct reports improve leadership soft skills
+  - Emphasizing leadership soft skills in your culture
+
+### Storytelling
+
+See Presentation
+
+### Strategy
+
+See also: [Strategy section on charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources#strategy)
+
+Shameless plug here, two presentations I contributed to:
+
+- 🎤 [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
+- 🎤 [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
+- [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
+- [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
+- [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
+- "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
+- [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
+
+### Survey
+
+- [Using cultural survey data.](https://lethain.com/using-cultural-survey-data/), Will Larson
+
 ### Talent management
 
 - [Your company needs Junior devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
@@ -1686,52 +1734,6 @@ Engineering values:
   - Move fast, but build for tomorrow.
   - Strong opinions, weakly held, openly shared.
   - Raise the bar — for yourself and your team.
-
-### Scaling an organization
-
-- [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
-- [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-### Second level manager (2LM)
-
-- [Managing Your Time as a Middle Manager](https://newsletter.canopy.is/p/managing-your-time-as-a-middle-manager)
-
-### Security
-
-- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
-- [Does Your Organization Have a Security.txt File?](https://krebsonsecurity.com/2021/09/does-your-organization-have-a-security-txt-file/), Krebs on Security
-- [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
-
-### Soft skills, Emotional Quotient (EQ)
-
-- [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
-- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
-- [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills)
-  - The importance of soft skills in engineering leadership
-  - Process to improving leadership soft skills
-  - Practices to fine-tune leadership soft skills
-  - Helping direct reports improve leadership soft skills
-  - Emphasizing leadership soft skills in your culture
-
-### Storytelling
-
-See Presentation
-
-### Strategy
-
-Shameless plug here, two presentations I contributed to:
-
-- 🎤 [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
-- 🎤 [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
-- [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
-- [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
-- [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
-- "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
-- [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
-
-### Survey
-
-- [Using cultural survey data.](https://lethain.com/using-cultural-survey-data/), Will Larson
 
 ### Team dynamics
 
