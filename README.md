@@ -77,6 +77,7 @@
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
+  - [Second level manager (2LM)](#second-level-manager-2lm)
   - [Security](#security)
   - [Soft skills, Emotional Quotient (EQ)](#soft-skills-emotional-quotient-eq)
   - [Storytelling](#storytelling)
@@ -1690,6 +1691,10 @@ Engineering values:
 
 - [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+### Second level manager (2LM)
+
+- [Managing Your Time as a Middle Manager](https://newsletter.canopy.is/p/managing-your-time-as-a-middle-manager)
 
 ### Security
 
