@@ -68,9 +68,9 @@
   - [Production and productivity](#production-and-productivity)
   - [Project management](#project-management)
     - [Estimating work (project management)](#estimating-work-project-management)
+  - [Quality](#quality)
   - [Release management](#release-management)
   - [Remote teams](#remote-teams)
-  - [Quality](#quality)
   - [RFCs (request for comments)](#rfcs-request-for-comments)
   - [Scaling an organization](#scaling-an-organization)
   - [Second level manager (2LM)](#second-level-manager-2lm)
@@ -1535,6 +1535,13 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
   - Try this tool: https://estigator.mozz.app/app/
 - [SomeEstimates](https://www.shaiyallin.com/post/someestimates)
 
+### Quality
+
+See also my [professional-programming repo](https://github.com/charlax/professional-programming)
+
+- [The code quality pyramid](https://www.fabianzeindl.com/posts/the-codequality-pyramid)
+- [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
+
 ### Release management
 
 - [The Tick-Tock of Apple](https://512pixels.net/2012/02/the-tick-tock-of-apple/)
@@ -1549,13 +1556,6 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
   - How to brainstorm remotely
   - Remote team activities: how to have fun when you work from home
   - The best online whiteboards
-
-### Quality
-
-See also my [professional-programming repo](https://github.com/charlax/professional-programming)
-
-- [The code quality pyramid](https://www.fabianzeindl.com/posts/the-codequality-pyramid)
-- [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
 
 ### RFCs (request for comments)
 
