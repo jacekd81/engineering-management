@@ -571,6 +571,7 @@ See also the section about [Organizational structure](#organizational-structure)
     - Provide context and venue to discuss
     - Codify expectations (product and eng)
 - [Ask Questions, Repeat The Hard Parts, and Listen](https://randsinrepose.com/archives/ask-questions-repeat-the-hard-parts-and-listen/), Rands in Repose: a good framework for letting your team make decisions autonomously. "My job is to teach you not to need me"
+- [Be good-argument-driven, not data-driven](https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
 
 > Arguments you should avoid using - that are logical fallacies
 > “Because it’s always been done this way.”
