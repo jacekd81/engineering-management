@@ -572,6 +572,8 @@ See also the section about [Organizational structure](#organizational-structure)
     - Codify expectations (product and eng)
 - [Ask Questions, Repeat The Hard Parts, and Listen](https://randsinrepose.com/archives/ask-questions-repeat-the-hard-parts-and-listen/), Rands in Repose: a good framework for letting your team make decisions autonomously. "My job is to teach you not to need me"
 - [Be good-argument-driven, not data-driven](https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
+- [Principles for decision-making in a flat organization](https://async.twist.com/decision-making-flat-organization/)
+- [Second-order Thinking](https://read.perspectiveship.com/p/second-order-thinking)
 
 > Arguments you should avoid using - that are logical fallacies
 > “Because it’s always been done this way.”
@@ -1174,6 +1176,7 @@ About productivity in general:
 - [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/)
 - [The Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 - [Asking questions the right way](https://vadimkravcenko.com/shorts/asking-right-questions/)
+- [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 
 > @shreyas: Don’t be fooled by Best Practices. By the time something is labeled and advertised as a Best Practice, it is just average. Following these practices only suggests you won’t be left behind, not that you will lead the pack. Best Practices are actually Average Practices.
 
@@ -1612,6 +1615,7 @@ Shameless plug here, two presentations I contributed to:
 - [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 - "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 - [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
+- [Is engineering strategy useful?](https://lethain.com/is-engineering-strategy-useful/), Will Larson
 
 ### Survey
 
