@@ -1120,6 +1120,7 @@ See also [Data organization](#data-organization)
 - [How and why we built our startup around small teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 - [Bad idea: Platforms automatically improve productivity](https://jchyip.medium.com/bad-idea-platforms-automatically-improve-productivity-ed8f15ce2c41)
   - Platforms as products improve productivity; “because I said so” platforms do not.
+- [Small teams](https://posthog.com/handbook/company/small-teams), Posthog Employee Handbook
 
 ### Performance management
 
