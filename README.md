@@ -36,6 +36,7 @@
   - [FinOps (cost)](#finops-cost)
   - [First-time manager](#first-time-manager)
   - [Feedback](#feedback)
+  - [Hands-on](#hands-on)
   - [Hiring](#hiring)
     - [General](#general)
     - [Hiring: interviews](#hiring-interviews)
@@ -714,6 +715,12 @@ See the Performance section too.
   - SEALs measure performance and trust. They would rather have a medium performance high trust person on the team than a high performance low trust person.
   - Simon's team runs team peer reviews. One person shares their top three weaknesses, the team can comment but they can only say thank you, then they do the same for their strength.
 
+### Hands-on
+
+- [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
+  - If you mean being the primary implementer of features, then probably not. If you mean being an integral part of how your team produces code, then yes, absolutely. I recommend it highly.
+- [Being in the details](https://www.theengineeringmanager.com/managing-managers/being-in-the-details/)
+
 ### Hiring
 
 #### General
@@ -1134,6 +1141,7 @@ See also [Data organization](#data-organization)
   - `Team performance = f(results, behaviors)`
 - [Hey, wait – is employee performance really Gaussian distributed??](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
   - Article argues that it's Pareto-distributed instead.
+- [The Worst Programmer I Know](https://dannorth.net/the-worst-programmer/): don’t try to measure the individual contribution of a unit in a complex adaptive system, because the premise of the question is flawed
 
 ### Personal productivity
 
