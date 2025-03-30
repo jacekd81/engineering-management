@@ -714,6 +714,7 @@ See the Performance section too.
   - Targets are great. But how targets are reached matters too. A team that would meet its target two months later should be rewarded more than a team that reach its target at the expense of morale and quality.
   - SEALs measure performance and trust. They would rather have a medium performance high trust person on the team than a high performance low trust person.
   - Simon's team runs team peer reviews. One person shares their top three weaknesses, the team can comment but they can only say thank you, then they do the same for their strength.
+- [The manager I hated and the lesson he taught me](https://www.blog4ems.com/p/the-manager-i-hated)
 
 ### Hands-on
 
