@@ -519,6 +519,10 @@ See also the section about [Organizational structure](#organizational-structure)
   - “The CTO’s primary job is to make sure the company’s technology strategy serves its business strategy” — Eric Ries.
   - As a CTO, you don’t work in the box, because your task is to examine the box and make it better.
   - The CTO might code, but only on POCs and prototypes.
+- [What It Really Means to be a Manager, Director, or VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
+  - Managers are paid to drive results with some supports
+  - Directors are paid to drive results with little or no supervision ("set and forget")
+  - VPs are paid to make the plan. (no "get-out-of-jail-free" card because "the CEO approved the plan")
 
 ### Data organization
 
@@ -1090,6 +1094,7 @@ Quotes:
 
 See also [Data organization](#data-organization)
 
+- Martin Fowler's [Team organization](https://martinfowler.com/tags/team%20organization.html) articles
 - [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html), Martin Fowler
   - "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.", Melvin Conway
 - [Conway’s Law in Team Topologies](https://medium.com/@fwynyk/conways-law-in-team-topolgies-did-you-really-get-it-69c1a4d702af)
