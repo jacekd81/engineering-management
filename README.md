@@ -1042,6 +1042,9 @@ Quote:
   - Avoid giving answers on a silver plate
   - Tailor your approach for technical vs non-technical topics
   - People learn best when they help themselves
+- [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
+  - The qualities we celebrate in our team members are usually the same ones causing our biggest headaches.
+  - We want self-aware engineers who understand their natural tendencies and can adjust them based on what each situation demands.
 
 ### Mindset and attitude
 
@@ -1219,6 +1222,7 @@ About calendars:
   - Build a team knowledge base to minimize repetitive questions and allow self-onboarding.
 - [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
 - [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
+- [Advice for time management as a manager](https://www.benkuhn.net/tmgr/)
 
 About distractions:
 
