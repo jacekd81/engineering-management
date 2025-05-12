@@ -1635,6 +1635,7 @@ Shameless plug here, two presentations I contributed to:
 - "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 - [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
 - [Is engineering strategy useful?](https://lethain.com/is-engineering-strategy-useful/), Will Larson
+- [Do not start by changing the culture to drive the improvements, follow it first](https://learnings.aleixmorgadas.dev/p/do-not-start-by-changing-the-culture)
 
 ### Survey
 
