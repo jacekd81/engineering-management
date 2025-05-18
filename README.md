@@ -998,6 +998,7 @@ Quotes:
   - Leading from consensus
   - Leading with conviction
 - [From good to great: A capability framework for building exceptional product engineering teams](https://buriti.ca/from-good-to-great-a-capability-framework-for-building-exceptional-product-engineering-teams-a8ca4e9e8f47)
+- [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 
 Quote:
 
