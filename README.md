@@ -1046,6 +1046,8 @@ Quote:
 - [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
   - The qualities we celebrate in our team members are usually the same ones causing our biggest headaches.
   - We want self-aware engineers who understand their natural tendencies and can adjust them based on what each situation demands.
+- [Managing strong personalities](https://betterthanrandom.substack.com/p/managing-big-egos)
+  - "If you are not able to coach the big players, you are not able to coach anyone. It is very important for a coach to understand that you are not going to teach them how to play football. You're not going to teach Ronaldo how to take a free kick. You’re not going to teach Ibra how to hold the ball on his chest. You’re not going to teach Drogba how to attack the first post and score in the air. You are going to teach them how to play football in that team." – Jose Mourinho
 
 ### Mindset and attitude
 
