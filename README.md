@@ -1048,6 +1048,7 @@ Quote:
   - We want self-aware engineers who understand their natural tendencies and can adjust them based on what each situation demands.
 - [Managing strong personalities](https://betterthanrandom.substack.com/p/managing-big-egos)
   - "If you are not able to coach the big players, you are not able to coach anyone. It is very important for a coach to understand that you are not going to teach them how to play football. You're not going to teach Ronaldo how to take a free kick. You’re not going to teach Ibra how to hold the ball on his chest. You’re not going to teach Drogba how to attack the first post and score in the air. You are going to teach them how to play football in that team." – Jose Mourinho
+- [Jeeps, Ferraris, and Other Engineers](https://maheshba.bitbucket.io/blog/2025/04/29/cars.html)
 
 ### Mindset and attitude
 
@@ -1140,6 +1141,7 @@ See also [Data organization](#data-organization)
 - [Bad idea: Platforms automatically improve productivity](https://jchyip.medium.com/bad-idea-platforms-automatically-improve-productivity-ed8f15ce2c41)
   - Platforms as products improve productivity; “because I said so” platforms do not.
 - [Small teams](https://posthog.com/handbook/company/small-teams), Posthog Employee Handbook
+- [Infrastructure Gravity & Domain Engineering](https://jackdanger.com/infrastructure-gravity/) argues for the value of having a "Domain Engineering" team.
 
 ### Performance management
 
