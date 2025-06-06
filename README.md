@@ -946,6 +946,8 @@ Also see my [professional-programming list](https://github.com/charlax/professio
 - [Handling Incidents and Outages](https://www.infoq.com/news/2015/06/handling-incidents-outages/)
 - [When the Sky Falls](http://randsinrepose.com/archives/when-the-sky-falls/), Rands in Repose
 - 🎞 [Incident Analysis: How *Learning* is Different Than *Fixing*](https://www.youtube.com/watch?v=Zw_ASI-rk1s&ab_channel=DevSecCon) ([slides](https://speakerdeck.com/jallspaw/incident-analysis-how-star-learning-star-is-different-than-star-fixing-star?slide=8
+- [Why LFI is a tough sell – Surfing Complexity](https://surfingcomplexity.blog/2023/08/20/why-lfi-is-a-tough-sell/)
+  - Interesting comment: "The funny thing to me is that RCA and LFI both suffer from a seemingly unsolvable problem when evaluating return on investment: you can count the customer facing outages you have, but you can’t count the ones you don’t have because you’re practicing either method. I’ve heard Allspaw refer to this as the “missing denominator” problem or something similar. It’s frustrating when orgs are looking for quantifiable reasons to invest in LFI, when they can’t quantify the benefits of RCA — and I think that’s exactly because of what you describe here."
 
 ### Learning, retro, postmortem
 
