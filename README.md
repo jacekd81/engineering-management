@@ -1643,6 +1643,7 @@ Shameless plug here, two presentations I contributed to:
 - [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
 - [Is engineering strategy useful?](https://lethain.com/is-engineering-strategy-useful/), Will Larson
 - [Do not start by changing the culture to drive the improvements, follow it first](https://learnings.aleixmorgadas.dev/p/do-not-start-by-changing-the-culture)
+- [Build vs Buy](https://www.statsig.com/articles/build-vs-buy)
 
 ### Survey
 
