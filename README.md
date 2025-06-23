@@ -1144,6 +1144,14 @@ See also [Data organization](#data-organization)
   - Platforms as products improve productivity; “because I said so” platforms do not.
 - [Small teams](https://posthog.com/handbook/company/small-teams), Posthog Employee Handbook
 - [Infrastructure Gravity & Domain Engineering](https://jackdanger.com/infrastructure-gravity/) argues for the value of having a "Domain Engineering" team.
+- [Unpopular Defaults for High-Performing Tech Organizations](https://avivby.medium.com/unpopular-defaults-for-high-performing-tech-organizations-30b7549e0925)
+  - Unpopular Defaults for High-Performing Tech Organizations
+  - No Nano Teams
+  - No Hackathons
+  - No Hard-Set “Engineering Time”
+  - Don’t Coddle Engineers’ Time Too Much
+  - Aim for Healthy Turnover
+  - Break Over-Specialization
 
 ### Performance management
 
