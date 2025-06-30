@@ -704,6 +704,7 @@ Hiring:
 See the Performance section too.
 
 - 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+  - Here's a good summary from the author (with videos): [What Is Radical Candor? Meaning & Examples](https://www.radicalcandor.com/blog/what-is-radical-candor/)
 - 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
   - So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
   - Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about.
