@@ -274,6 +274,7 @@ Here are some generic resources:
   - Engineering manager / tech lead
   - Product manager / tech lead
   - People manager / research lead
+- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html), martinfowler.com, proposes an interesting take on the "T-shaped engineer". See the summary on my repo [professional-programming](https://github.com/charlax/professional-programming)
 
 ### Tools
 
