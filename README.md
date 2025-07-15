@@ -620,6 +620,7 @@ See also the section about [Organizational structure](#organizational-structure)
   - Start by identifying “the thorn” in your leadership’s side
   - Quantify the business value of projects
 - [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html), Martin Fowler
+- [2024 DORA report](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf)
 
 ### Diversity and inclusion
 
@@ -1154,6 +1155,10 @@ See also [Data organization](#data-organization)
   - Don’t Coddle Engineers’ Time Too Much
   - Aim for Healthy Turnover
   - Break Over-Specialization
+- [The magic of software; or, what makes a good engineer also makes a good engineering organization](https://moxie.org/2024/09/23/a-good-engineer.html): thought-provoking.
+  - "It’s not always as simple as starting with a vision and then using the resources available to build it. They often emerge together or in an intertwined way, and things continually leap forward over and over."
+  - "In complex ecosystems like computing, there just seems to be some kind of ongoing relationship between deep understanding of how the tools we use to create things function and the quality or creativity of the output we get as a result."
+  - "Many of today’s “best practices” have been drawn from long-established internet companies like Google. However, the problem with copying their current practices on the basis of their success is that most of those companies found near-invincible business models that basically printed money, and so almost any organizational or management practice developed or selected at random likely would continue to be “successful” to some degree."
 
 ### Performance management
 
